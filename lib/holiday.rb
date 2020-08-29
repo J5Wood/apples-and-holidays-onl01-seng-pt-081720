@@ -24,7 +24,6 @@ def second_supply_for_fourth_of_july(holiday_hash)
         puts if supplies == "BBQ"
         end
       end
-    binding.pry
     end
   end
 end
