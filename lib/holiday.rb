@@ -59,6 +59,7 @@ def all_winter_holiday_supplies(holiday_hash)
     if current_season == :winter
       holidays.each do | holiday, suppies|
         binding.pry
+      end
     end
   end
 end
